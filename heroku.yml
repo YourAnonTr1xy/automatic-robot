@@ -1,0 +1,4 @@
+run:
+  worker:
+    command:
+      - python OpIR_1.py
